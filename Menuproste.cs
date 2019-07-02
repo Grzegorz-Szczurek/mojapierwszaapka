@@ -11,6 +11,7 @@ namespace mojapierwszaapka
       public static void StartMenu()
       {
          Console.Title = "Witaj w moim kalkulatorze";
+
          while (true)
          {
             Console.Clear();
